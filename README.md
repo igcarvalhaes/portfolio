@@ -1,4 +1,4 @@
-# Portfólio de Igor Matias
+# Portfólio de Igor Silva Carvalhaes Matias
 
 Bem-vindo ao meu portfólio! Este é um projeto pessoal onde apresento alguns dos meus principais projetos como desenvolvedor front-end. O objetivo é demonstrar minhas habilidades com HTML, CSS, e JavaScript, além de compartilhar links para os projetos hospedados e seus respectivos repositórios no GitHub.
 
